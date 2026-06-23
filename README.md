@@ -1516,15 +1516,6 @@ The system exposes RESTful APIs for integration with other systems.
 - User profiles
 - Security questions for password recovery
 
----
 
-## Contact Information
-
-For technical support or questions:
-- System Administrator: [Admin Email]
-- IT Support: [Support Email]
-- Department: [Department Contact]
-
----
 
 *This user guide is subject to updates as new features are added to the system. Check for the latest version regularly.*
